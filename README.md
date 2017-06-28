@@ -3,4 +3,9 @@ These are examples of selected data visalization projects I have worked on.  I h
 
 ![LCH1.jpg](figures/LCH1.jpg)
 
+
+
+
+
+
 ![ecd2.png](figures/ecd2.png)
