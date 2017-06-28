@@ -1,12 +1,16 @@
 # Data_Visualization
 These are examples of selected data visalization projects I have worked on.  I have used various languages from Python and R and programs such as Voxler and C-Tech Visualization System. 
 
+All images below have either been pixelated to obscure their locations or are freely available due to the Freedome of Information Act (FOIA).
+
 ![LCH1.jpg](figures/LCH1.jpg)
 
 C-Tech Environmental Visualization System with a CAD image as base image
 
 
+![ecd3.png](figures/ecd3.png)
 
+C-Tech Environmental Visualization System with a aerial as a base image.  This model is in the very early stages.  My project manager was anxious to see the rougly where the extent of the contaimant was in relation to the winter water table and the summer water table.  
 
 
 ![CrossSectionEW.png](figures/CrossSectionEW.png)
