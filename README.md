@@ -9,4 +9,8 @@ C-Tech Environmental Visualization System with a CAD image as base image
 
 
 
-![ecd2.png](figures/ecd2.png)
+![CrossSectionEW.png](figures/CrossSectionEW.png)
+
+Cross Section for a project in Houston Texas.  A EPA Superfund site is located in the San Jacinto River.  The surrounding communties were concerend about possible migration of the contiminate into their private wells.  
+
+* <a href="https://www.epa.gov/tx/sjrwp">San Jacinto Superfund Site</a>
